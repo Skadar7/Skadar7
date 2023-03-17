@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media2.giphy.com/media/yrhhmre5fN2PtRujfo/giphy.gif" align="center" style="width: 100%" />
+<img src="https://media.giphy.com/media/yrhhmre5fN2PtRujfo/giphy.gif" align="center" style="width: 100%" />
 </div>  
 
 ### <div align="center">I'm Denis, a passionate ML;DL developer🐼</div>  
