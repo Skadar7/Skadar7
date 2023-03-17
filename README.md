@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.tenor.com/2MeBHO2AfBIAAAAC/hello-oh-hello.gif" width="400"/>
+<img src="(https://media.tenor.com/2MeBHO2AfBIAAAAC/hello-oh-hello.gif)" width="400"/>
 </div>  
 
 ### <div align="center">I'm Denis, a passionate ML;DL developer🐼</div>  
