@@ -1,7 +1,6 @@
 <div align="center">
-<img src="https://tenor.com/ru/view/hello-oh-hello-dog-cute-dog-gif-22839667.gif" align="center" style="width: 100%" />
+<img src="https://giphy.com/embed/yrhhmre5fN2PtRujfo.gif" align="center" style="width: 100%" />
 </div>  
-  
 
 ### <div align="center">I'm Denis, a passionate ML;DL developer🐼</div>  
   
