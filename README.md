@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media2.giphy.com/media/yrhhmre5fN2PtRujfo/giphy.gif?cid=ecf05e47kk3855litft19bjl3b5w1p06iuiw3ww4154k15xt&rid=giphy.gif&ct=g" width="400"/>
+<img src="https://media.tenor.com/2MeBHO2AfBIAAAAC/hello-oh-hello.gif"/>
 </div>  
 
 ### <div align="center">I'm Denis, a passionate ML;DL developer🐼</div>  
@@ -56,9 +56,8 @@
 <div align="center">
 </div>  
 <br/>  
-![Snake animation]
-(https://github.com/Skadar/Skadar/blob/output/github-contribution-grid-snake.svg)
-## Github Stats  
+
+##⚡ My Stats :  
 <a href="http://www.github.com/Skadar7"><img src="https://github-readme-stats.vercel.app/api?username=Skadar7&show_icons=true&hide=prs,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Skadar7's GitHub stats" /></a>
 
 <a href="http://www.github.com/Skadar7"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Skadar7&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
